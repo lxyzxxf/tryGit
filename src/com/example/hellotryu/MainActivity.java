@@ -6,6 +6,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends Activity {
+	
+	//込込込込
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
